@@ -29,6 +29,8 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
 </p>
 
 <!--
