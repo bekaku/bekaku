@@ -42,5 +42,4 @@
  <img src="https://github-readme-stats.vercel.app/api?username=bekaku&show_icons=true&theme=prussian" alt="Bekaku" width="45%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bekaku&theme=prussian" width="48%" >
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
