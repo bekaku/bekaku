@@ -31,6 +31,10 @@
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white" />
 </p>
 
+## Top Languages
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekaku&layout=compact)
+
 ## My GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=bekaku&show_icons=true&theme=gotham" alt="Bekaku" width="45%" align="right"/>
