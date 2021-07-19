@@ -30,6 +30,7 @@ I work at [Grand Ats Co.,Ltd.](http://grandats.com/) as a Software development m
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white" />
 </p>
+
 ## My GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=bekaku&show_icons=true&theme=gotham" alt="Bekaku" width="45%" align="right"/>
