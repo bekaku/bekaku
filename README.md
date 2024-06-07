@@ -2,7 +2,7 @@
 # Hi there. I am Chanavee 👋 . Welcome to my Github Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bekaku.repoName)
 
 - 🔭 I am currently working as a Software development manager at [Grand Ats Co.,Ltd.](http://grandats.com/)
-- 📫 How to reach me: <a href="mailto:baekaku@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/bekaku/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> [Github Page]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://bekaku.github.io/))
+- 📫 How to reach me: <a href="mailto:baekaku@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/bekaku/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> [Github Page]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://bekaku.github.io/)
 
 ## Tech Stack
 <p>
