@@ -8,6 +8,7 @@
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-8DD6F9?style=flat-square&logo=vite&logoColor=white" /> 
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
@@ -26,7 +27,6 @@
   <img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?style=flat-square&logo=apache-cordova&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
