@@ -9,7 +9,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Typscript" src="https://img.shields.io/badge/Typscript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-9b59b6?style=flat-square&logo=vite&logoColor=white" /> 
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> 
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=buymeacoffee&logoColor=white" />
