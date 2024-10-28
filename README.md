@@ -11,7 +11,7 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-9b59b6?style=flat-square&logo=vite&logoColor=white" /> 
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=buymeacoffee&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
