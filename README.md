@@ -62,7 +62,7 @@ I believe in open-source, automation, and staying curious in a fast-moving world
 ## :pushpin: Backend Project
 | Project Name  | Tech |
 |------|--------------|
-| [Spring boot Rest api Starter Template]([https://github.com/bekaku/vue-ionic-example-app](https://github.com/bekaku/java-spring-boot-starter)) | <img alt="springboot" src="https://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+| [Spring boot Rest api Starter Template](https://github.com/bekaku/java-spring-boot-starter) | <img alt="springboot" src="https://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
 
 ## :pushpin: Frontend Project
 | Project Name  | Tech |
