@@ -59,6 +59,11 @@ I believe in open-source, automation, and staying curious in a fast-moving world
 - **Grafana**
 - **Prometheus**
 ---
+## :pushpin: Frontend Project
+| Project Name  | Tech |
+|------|--------------|
+| [Vue JS 3 + Typescript + Quasar 2 Starter template + Docker](https://bekaku.github.io/quasar-starter) | <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=white" /> <img alt="Quasar" src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=white" /> |
+| [Nuxt 3 + Typescript + Quasar 2 + Docker](https://github.com/bekaku/nuxt-quasar-example-app) | <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=Nuxt&logoColor=white" /> <img alt="Quasar" src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=white" /> |
 
 ## 🌱 What I'm Into Now
 
