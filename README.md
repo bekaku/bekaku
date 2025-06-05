@@ -59,11 +59,22 @@ I believe in open-source, automation, and staying curious in a fast-moving world
 - **Grafana**
 - **Prometheus**
 ---
+## :pushpin: Backend Project
+| Project Name  | Tech |
+|------|--------------|
+| [Spring boot Rest api Starter Template]([https://github.com/bekaku/vue-ionic-example-app](https://github.com/bekaku/java-spring-boot-starter)) | <img alt="springboot" src="https://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+
 ## :pushpin: Frontend Project
 | Project Name  | Tech |
 |------|--------------|
-| [Vue JS 3 + Typescript + Quasar 2 Starter template + Docker](https://bekaku.github.io/quasar-starter) | <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=white" /> <img alt="Quasar" src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=white" /> |
-| [Nuxt 3 + Typescript + Quasar 2 + Docker](https://github.com/bekaku/nuxt-quasar-example-app) | <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=Nuxt&logoColor=white" /> <img alt="Quasar" src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=white" /> |
+| [Vue JS 3 + Typescript + Quasar 2 Starter template + Docker](https://bekaku.github.io/quasar-starter) | <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=white" /> <img alt="Quasar" src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
+| [Nuxt 3 + Typescript + Quasar 2 + Docker](https://github.com/bekaku/nuxt-quasar-example-app) | <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=Nuxt&logoColor=white" /> <img alt="Quasar" src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
+
+## :pushpin: Mobile Project
+| Project Name  | Tech |
+|------|--------------|
+| [Vue JS 3 + Typescript + Ionic 8](https://github.com/bekaku/vue-ionic-example-app) | <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=white" /> <img alt="ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" /> |
+
 
 ## 🌱 What I'm Into Now
 
