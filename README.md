@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 From building backend microservices to crafting polished frontend experiences, I've worn many hats in the software world.  
-I currently lead engineering teams, architect systems, and drive tech-forward innovation. — helping businesses grow through code.
+I currently lead engineering teams, architect systems, and drive tech-forward innovation for organizations. — helping businesses grow through code.
 
 I believe in open-source, automation, and staying curious in a fast-moving world.
 
