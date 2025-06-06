@@ -27,6 +27,7 @@ I believe in open-source, automation, and staying curious in a fast-moving world
 
 ### ⚙️ Backend
 - **Spring Boot**
+- **Gradle**
 - **Laravel**
 - **Node.js**
 - **JWT (JSON Web Tokens)**
@@ -62,7 +63,7 @@ I believe in open-source, automation, and staying curious in a fast-moving world
 ## :pushpin: Backend Project
 | Project Name  | Tech | Link |
 |------|--------------|------|
-| Spring boot Rest api Starter Template | <img alt="springboot" src="https://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> | [Link](https://github.com/bekaku/java-spring-boot-starter) <a href="https://example.com" target="_blank" rel="noopener noreferrer">Open Example in New Tab</a> |
+| A modern and modular starter template for building robust REST APIs using Spring Boot. Designed for quick bootstrapping of secure, production-ready Java backends. | <img alt="springboot" src="https://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" /> <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> | [Link](https://github.com/bekaku/java-spring-boot-starter) |
 
 ## :pushpin: Frontend Project
 | Project Name  | Tech | Link |
